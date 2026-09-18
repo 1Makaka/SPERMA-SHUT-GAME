@@ -1,5 +1,9 @@
+# fly.toml app configuration file generated for spermashut on 2026-09-18T16:23:34Z
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
 
-app = 'sperma-shut-game-psyevw'
+app = 'spermashut'
 primary_region = 'fra'
 
 [build]
@@ -17,4 +21,3 @@ primary_region = 'fra'
   cpu_kind = 'shared'
   cpus = 1
   memory_mb = 256
-  
