@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for sperma-shut-game on 2026-09-18T14:56:05Z
+# fly.toml app configuration file generated for sperma-shut-game-psyevw on 2026-09-18T15:09:23Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'sperma-shut-game'
+app = 'sperma-shut-game-psyevw'
 primary_region = 'fra'
 
 [build]
